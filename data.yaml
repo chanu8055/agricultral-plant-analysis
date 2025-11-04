@@ -1,0 +1,17 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 12
+names:
+  - leaf_healthy
+  - leaf_diseased
+  - leaf_dry
+  - seed_healthy
+  - seed_diseased
+  - seed_ripe
+  - branch_healthy
+  - branch_diseased
+  - pest
+  - weed
+  - leaf_count
+  - flower_count

@@ -1,0 +1,10 @@
+leaf_healthy
+leaf_diseased
+leaf_dry
+seed_healthy
+seed_diseased
+seed_ripe
+seed_dry
+branch_healthy
+branch_diseased
+pest
